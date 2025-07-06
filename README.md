@@ -1,6 +1,5 @@
-## Naziv projekta: 
-# Segmentacija mozga na magnetskim rezonancijskim slikama pomoću U-Net arhitekture
-* Ovaj projekt istražuje primjenu U-Net arhitekture za automatsku segmentaciju mozga na MR slikama, s naglaskom na preciznu analizu strukture mozga u medicinskoj dijagnostici. 
-* Model je treniran korištenjem Adam optimizatora i BCEDiceLoss funkcije gubitka, postignuvši visoke rezultate na skupu podataka BraTS2020. 
-* Rezultati pokazuju učinkovitost modela u identifikaciji različitih regija mozga, s ciljem smanjenja ljudske intervencije i poboljšanja dijagnostičke točnosti.
-* Postoji prostor za daljnje poboljšanje modela u kontekstu kliničkih aplikacija.
+#Brain Segmentation on Magnetic Resonance Images Using U-Net Architecture
+* This project explores the application of the U-Net architecture for automatic brain segmentation on MR images, with an emphasis on precise analysis of brain structures in medical diagnostics.
+* The model was trained using the Adam optimizer and the BCEDiceLoss loss function, achieving high performance on the BraTS2020 dataset.
+* The results demonstrate the model's effectiveness in identifying different brain regions, aiming to reduce human intervention and improve diagnostic accuracy.
+* There is room for further improvement of the model in the context of clinical applications.
